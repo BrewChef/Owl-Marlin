@@ -41,8 +41,11 @@ The current Marlin dev team consists of:
  - Erik van der Zalm [[@ErikZalm](https://github.com/ErikZalm)] - Netherlands &nbsp; [![Flattr Erik](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ErikZalm&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
 
 The current Owl dev team consists of:
-Me jajajaja
-Androiditto@gmail.com
+- Me 
+- My Selft
+- My Ego
+- My need to have a firmwarte that has an esay config and all features I could Need
+- Androiditto@gmail.com
 
 ## This Version
 This version is dedicated to all non approbved changes that enables the usage of
