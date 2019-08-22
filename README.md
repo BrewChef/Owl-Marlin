@@ -18,15 +18,16 @@ Owl Marlin Based 3D Printer Firmware introduces a layer of abstraction so that a
 
 ### Code Standars
 Owl will maintins the opriginal code andthe sections changed allwayus will be enclosed by the follwong CODE
-//DrDitto
-/*
-The New Code
-*/
 
-//DrDitto
-/*
-The Suppresed code and a little explanation
-*/
+- //DrDitto
+  /*
+  The New Code
+  */
+
+- //DrDitto
+  /*
+  The Suppresed code and a little explanation
+  */
 
 
 
