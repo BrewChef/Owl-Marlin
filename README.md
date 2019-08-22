@@ -8,7 +8,7 @@ I plan to update this version at least twice a year, including the bugfix and pu
 
 
 ## Owl Marlin
-This Version borns becuase a banned applied to me by Marlin Team when I puiblisg fixes before their autorization.
+This Version borns becuase I need to fix issues with some hardware over SKR boards and there was no way to obtain responsr over my bugfixes. 
 
 
 
