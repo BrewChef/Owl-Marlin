@@ -2,9 +2,11 @@
 
 __Not for production use. Use with caution!__
 
-Owl takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards. Read about Marlin's decision to use a "Hardware Abstraction Layer" below.
+Owl takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while support for 8 bits support will be removed.
 
 ## Owl Marlin
+This Version borns as a banned applied to me by Marlin Team. Beacuse Fixes I puiblisg before their autorization.
+
 
 
 ## Hardware Abstraction Layer (HAL)
