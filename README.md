@@ -1,8 +1,11 @@
 ﻿# Owl Marlin Based 3D Printer Firmware
 
-__Not for production use. Use with caution!__
+I use ths version on Production. But Please Use with caution!
 
-Owl takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while support for 8 bits support will be removed.
+Owl takes this popular RepRap an focused on add suport for all problematic addons like MKS_MINI_128864, Fysetc RGB Panels and SKR V1.1, V1.3 and MKS SBASE Boards and enable all broken fucntionality tha the comunity report.
+
+I plan to update this version at least twice a year, including the bugfix and pull request I consider copuld bu important to makes my 3d printers Rock Solid.
+
 
 ## Owl Marlin
 This Version borns becuase a banned applied to me by Marlin Team when I puiblisg fixes before their autorization.
@@ -30,8 +33,8 @@ Owl Marlin Based 3D Printer Firmware introduces a layer of abstraction so that a
 
 
 ## Credits
-
-The current Marlin dev team consists of:
+Thanks to the 
+current Marlin dev team consists of:
 
  - Scott Lahteine [[@thinkyhead](https://github.com/thinkyhead)] - USA &nbsp; [![Flattr Scott](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=thinkyhead&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
  - Roxanne Neufeld [[@Roxy-3D](https://github.com/Roxy-3D)] - USA
@@ -48,7 +51,7 @@ The current Owl dev team consists of:
 - Androiditto@gmail.com
 
 ## This Version
-This version is dedicated to all non approbved changes that enables the usage of
+This version is dedicated to all non approbed changes that enables the usage of
 MKS_MINI_12864
 FYSETC RGB Panels
 and all SKR BOARD Family
