@@ -16,7 +16,22 @@ This Version borns becuase a banned applied to me by Marlin Team when I puiblisg
 
 Owl Marlin Based 3D Printer Firmware introduces a layer of abstraction so that all the existing high-level code can be built for 32-bit platforms. The 8 bits support will be removed.
 
+### Code Standars
+Owl will maintins the opriginal code andthe sections changed allwayus will be enclosed by the follwong CODE
+//DrDitto
+/*
+The New Code
+*/
+
+//DrDitto
+/*
+The Suppresed code and a little explanation
+*/
+
+
+
 ### Current HALs
+The main flocus os this firware will be SKR boards, but the complete set of HAL will stay present in case anodoby ask me for a change
 
   name|processor|speed|flash|sram|logic|fpu
   ----|---------|-----|-----|----|-----|---
