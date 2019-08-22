@@ -5,7 +5,7 @@ __Not for production use. Use with caution!__
 Owl takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while support for 8 bits support will be removed.
 
 ## Owl Marlin
-This Version borns as a banned applied to me by Marlin Team. Beacuse Fixes I puiblisg before their autorization.
+This Version borns becuase a banned applied to me by Marlin Team when I puiblisg fixes before their autorization.
 
 
 
@@ -39,6 +39,10 @@ The current Marlin dev team consists of:
  - Chris Pepper [[@p3p](https://github.com/p3p)] - UK
  - João Brazio [[@jbrazio](https://github.com/jbrazio)] - Portugal
  - Erik van der Zalm [[@ErikZalm](https://github.com/ErikZalm)] - Netherlands &nbsp; [![Flattr Erik](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ErikZalm&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
+
+The current Owl dev team consists of:
+Me jajajaja
+Androiditto@gmail.com
 
 ## This Version
 This version is dedicated to all non approbved changes that enables the usage of
