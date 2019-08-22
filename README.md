@@ -83,6 +83,11 @@ MKS_MINI_12864
 FYSETC RGB Panels
 and all SKR BOARD Family
 
+## Recovered Broken Functionality
+- Custom Boot Screen
+- Fysetc RGG Neopixel auto start backlight
+- Mks MINI 12864 all bugs Fixed over SKR V1.1 and V1.3
+
 
 ## License
 
