@@ -9,7 +9,7 @@ Owl takes this popular RepRap firmware to the next level by adding support for m
 
 ## Hardware Abstraction Layer (HAL)
 
-Owl Marlin Based 3D Printer Firmware introduces a layer of abstraction so that all the existing high-level code can be built for 32-bit platforms while still retaining full 8-bit AVR compatibility. Retaining AVR compatibility and a single code-base is important to us, because we want to make sure that features and patches get as much testing and attention as possible, and that all platforms always benefit from the latest improvements.
+Owl Marlin Based 3D Printer Firmware introduces a layer of abstraction so that all the existing high-level code can be built for 32-bit platforms. The 8 bits support will be removed.
 
 ### Current HALs
 
